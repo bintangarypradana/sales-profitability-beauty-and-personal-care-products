@@ -31,12 +31,12 @@ As a **Data Analyst**, I was responsible for analyzing sales and profit data to 
 - Bodycare and Fragrance categories contribute relatively weak strategic value, creating risks related to inventory inefficiency, portfolio complexity, and inefficient resource allocation.
 
 ## Recommendations
-- **Core Revenue Protection & Optimization (Highest Priority)**
-  - Strengthen Q4 readiness through early stock preparation, fast-moving SKU prioritization, and higher marketing allocation for high-converting campaigns. During lower-performing Q1 periods, maintain sales through retention strategies such as personalized promotions, bundling, loyalty incentives, and customer reactivation campaigns.
-  - Utilize high-performing skincare products as anchor products for cross-selling and bundling strategies to increase exposure, trial, and conversion of lower-performing categories.
-  - Maintain Skincare as the primary growth engine while expanding Haircare and Makeup to create a more balanced revenue contribution.
-- **Growth Expansion & Revenue Diversification (Second Priority)**
-  - Enhance market diversification by increasing expansion into cities outside Surabaya through localized campaigns, reseller partnerships, and targeted customer acquisition strategies.
-  - Develop Haircare and Makeup as secondary growth engines through targeted campaigns, cross-category bundling, and pricing strategies tailored to customer purchasing behavior.
-- **Portfolio Efficiency & Long-Term Sustainability (Third Priority)**
-  - Conduct regular reviews of low-performing Bodycare and Fragrance products through repositioning, rebranding, pricing adjustments, or gradual discontinuation to improve overall portfolio efficiency.
+
+| Priority | Recommendation | Expected Business Impact |
+|---|---|---|
+| High | **Q4 readiness plan:** Start stock building and campaign planning in Q3 (Aug–Sep), focusing on Prioritize SKUs (e.g., Serum Glow and Serum Fresh). Shift marketing budget toward the best-converting campaigns. | Captures the Q4 peak, avoids stockouts on top profit drivers, and protects the main sales and profit season. |
+| High | **Q1 retention program:** Target customers who purchased in Q4 with personalized offers, loyalty rewards, and reactivation campaigns for inactive buyers. Focus on Retail, which contributes ~70% of sales and profit. | Reduces the Q1 gap, keeps revenue more stable throughout the year, and protects the largest customer base. |
+| High | **Skincare-anchored bundles:** Pair top skincare products (e.g., serums) with Haircare and Makeup products from the Optimize group. | Lifts trial and conversion of Haircare (22.2%) and Makeup (18.4%) without relying on new customer acquisition. |
+| Medium | **Split Optimize into two actions:** (1) For high-importance products with low margins, review pricing and costs to raise margins above 25%. (2) For medium-importance products with healthy margins, grow volume through targeted campaigns. | Turns the largest group (41.3% of products) into profit contributors by applying the right solution to each product. |
+| Medium | **Geographic diversification:** Scale the Surabaya campaign playbook first in Jakarta (35.6% share), then pilot in Bandung (8.7%). Recruit more resellers (30.4% of sales) to reduce dependence on Retail. | Lowers reliance on Surabaya (55.7% of sales) and Retail while opening new revenue streams. |
+| Low | **Quarterly review of Evaluate products:** Review Bodycare and Fragrance products individually to decide whether to reposition, adjust prices, bundle, or phase them out. Start with the weakest lines, such as the Hand Cream range, which accounts for most of the bottom 10 products by profit. | Cuts inventory waste and portfolio complexity while freeing up budget for Prioritize and Optimize products. |
